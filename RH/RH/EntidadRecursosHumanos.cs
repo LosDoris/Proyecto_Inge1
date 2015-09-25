@@ -10,6 +10,7 @@ namespace RH
         private int id;
         private DateTime fecha;
         private String proveedor;
+        private String Nombresillo;//Daniel Commit
         private String descripcion;
         private String nombreProducto;
         private int cantidadInventario;
