@@ -14,5 +14,6 @@ namespace RH
             settings.AutoRedirectMode = RedirectMode.Permanent;
             routes.EnableFriendlyUrls(settings);
         }
+        //comentario de andrea =)
     }
 }
