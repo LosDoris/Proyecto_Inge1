@@ -17,14 +17,6 @@ namespace RH
             //Comentario de Daniel
         }
 
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
 
         public void insertarRH(EntidadRecursosHumanos RH) {
             try
