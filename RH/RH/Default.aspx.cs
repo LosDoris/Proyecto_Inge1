@@ -6,6 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 
+//clase Recursos Humanos, ejemplo:
 namespace RH
 {
     public partial class _Default : Page
