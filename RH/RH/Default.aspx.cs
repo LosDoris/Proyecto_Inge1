@@ -35,6 +35,9 @@ namespace RH
         {
             controladoraRH.eliminar(Convert.ToInt32(this.txtID.Text));
         }
+
+
+
         protected void btnConsultar_Click(object sender, EventArgs e)
         {
             controladoraRH.consultarRH();
