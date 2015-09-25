@@ -6,7 +6,7 @@
         <h1>Recursos Humanos</h1>
 
     </div>
-
+<!--Comentario html-->
     <div id="btnsControl" style="float:right">
         <asp:Button ID="btnModificar" runat="server" Text="Modificar" OnClick="btnModificar_Click"/>
         <asp:Button ID="btnEliminar" runat="server" Text="Eliminar" OnClick="btnEliminar_Click"/>
