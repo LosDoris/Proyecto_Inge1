@@ -14,6 +14,7 @@ namespace RH
             DataTable dt = new DataTable();
             //dt = adapterVentas.GetData();
             return dt;
+            //Comentario de Daniel
         }
 
         //
