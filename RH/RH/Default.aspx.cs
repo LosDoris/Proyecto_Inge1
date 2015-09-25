@@ -6,6 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 
+//clase Recursos Humanos, ejemplo:
 namespace RH
 {
     public partial class _Default : Page
@@ -34,6 +35,18 @@ namespace RH
         {
             controladoraRH.eliminar(Convert.ToInt32(this.txtID.Text));
         }
+
+
+
+
+
+
+
+
+
+
+
+
         protected void btnConsultar_Click(object sender, EventArgs e)
         {
             controladoraRH.consultarRH();

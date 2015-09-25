@@ -16,6 +16,15 @@ namespace RH
             return dt;
         }
 
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+
         public void insertarRH(EntidadRecursosHumanos RH) {
             try
             {
